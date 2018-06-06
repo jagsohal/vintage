@@ -1573,6 +1573,67 @@ body {
     left: -1rem;
   }
 }
+.cid-qUcgLfcASV {
+  background-image: url("../../../assets/images/andres-salas-541499-unsplash-2000x1333.jpg");
+}
+.cid-qUcgLfcASV .mbr-section-title,
+.cid-qUcgLfcASV .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-qUcgLfcASV .mbr-section-text {
+  color: #232323;
+}
+.cid-qUcgLfcASV .mbr-text,
+.cid-qUcgLfcASV .typed-text,
+.cid-qUcgLfcASV .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-qUcgLfcASV .btn {
+  margin-left: 4px !important;
+}
+.cid-qUcgLfcASV .animated-element {
+  color: #fe525b;
+}
+.cid-qUcgLfcASV .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #fe525b;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 .cid-qUbh1Ze4M0 {
   display: flex;
   background-image: url("../../../assets/images/noel-nichols-415072-unsplash-2000x1335.jpg");
